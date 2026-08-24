@@ -1,0 +1,26 @@
+{
+  "title": "paperRag-experiments: notebooks de los experimentos del artículo sobre análisis contextual de citas",
+  "upload_type": "software",
+  "license": "MIT",
+  "creators": [
+    {
+      "name": "Otero, Daniel",
+      "orcid": "0000-0001-8451-302X",
+      "affiliation": "Universidad del Valle, Cali, Colombia"
+    },
+    {
+      "name": "Gutierrez de Piñerez Reyes, Raúl Ernesto",
+      "orcid": "0000-0001-9941-6206",
+      "affiliation": "Universidad del Valle, Cali, Colombia"
+    }
+  ],
+  "keywords": [
+    "natural language processing",
+    "information retrieval",
+    "text analysis",
+    "multi-agent systems",
+    "bibliometrics",
+    "retrieval augmented generation"
+  ],
+  "description": "Notebooks que producen los resultados reportados en el artículo enviado a la revista TecnoLógicas: indexación vectorial con PyMuPDF, grafo de cinco agentes en LangGraph, arnés de evaluación sobre 89 artículos y cinco modelos de lenguaje, y análisis de latencia."
+}

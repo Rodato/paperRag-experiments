@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "Si usás este software, citá el artículo asociado."
+title: "paperRag-experiments: notebooks de los experimentos del artículo sobre análisis contextual de citas"
+abstract: >-
+  Notebooks que producen los resultados reportados en el artículo: construcción de
+  los índices vectoriales con PyMuPDF, grafo de cinco agentes en LangGraph,
+  arnés de evaluación sobre 89 artículos y cinco modelos de lenguaje, y análisis
+  de latencia con las figuras del artículo.
+type: software
+license: MIT
+repository-code: "https://github.com/Rodato/paperRag-experiments"
+authors:
+  - family-names: "Otero"
+    given-names: "Daniel"
+    orcid: "https://orcid.org/0000-0001-8451-302X"
+    affiliation: "Universidad del Valle, Cali, Colombia"
+  - family-names: "Gutierrez de Piñerez Reyes"
+    given-names: "Raúl Ernesto"
+    orcid: "https://orcid.org/0000-0001-9941-6206"
+    affiliation: "Universidad del Valle, Cali, Colombia"
+keywords:
+  - natural language processing
+  - information retrieval
+  - text analysis
+  - multi-agent systems
+  - bibliometrics
+  - retrieval augmented generation

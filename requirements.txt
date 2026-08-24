@@ -1,0 +1,21 @@
+# Versiones usadas en la ejecución reportada (Google Colab, jul-sep 2025)
+PyMuPDF
+langchain
+langchain-community
+langchain-openai
+langchain-chroma
+langchain-mistralai
+langgraph
+chromadb
+faiss-cpu
+openai
+mistralai
+google-generativeai
+tiktoken
+pandas
+numpy
+matplotlib
+seaborn
+plotly
+scipy
+transformers
