@@ -1,0 +1,53 @@
+id_evaluacion,titulo,dominio_detectado,deduplicado_por
+Attar_2022,Analysing Longitudinal Social Science Questionnaires: Topic ,ciencias sociales,nombre
+Chen_et_al._2024,Generative AI in Higher Art Education,educación,nombre
+Gonzales_et_al._2023,Analysis of International Economic Integration based on a Co,economía,nombre
+Hassan_Liu_2019,Embedding Data Science into Computer Science Education,educación en ciencias de la computación,nombre
+Hidalgo_Stojkoski_2025,The Theory of Economic Complexity,economía,nombre
+Jatwot_2014,A Framework for Analyzing Semantic Change of Words across Ti,procesamiento de lenguaje natural,nombre
+Jayasekara_Abu_2018,Título no identificado,ciencias sociales,nombre
+Kassem_et_al._2024,Text Analysis Based on Natural Language Processing (NLP),procesamiento de lenguaje natural,nombre
+Kovalchuk_et_al._2022,Text Mining for the Analysis of Legal Texts,procesamiento de lenguaje natural,nombre
+Matsumoto_et_al._2018,Data Analysis Support by Combining Data Mining,minería de datos y minería de texto,nombre
+Nicholson_et_al._2023,Changing word meanings in biomedical literature reveal pande,biomedicina,nombre
+Ono_Nishiyama_Obana_1999,Agentbase a framework for handling multiple agents,inteligencia artificial,nombre
+Ravi_Ravi_2018,$UWLFOHFLWDWLRQVHQWLPHQWDQDO\VLVXVLQJGHHSOHDUQLQJ,procesamiento de lenguaje natural,nombre
+Rodriguez_Casasola_2022,Analysis of Semantic Shift Before and After COVID-19 in Span,procesamiento de lenguaje natural,nombre
+Rosenblueth_Gerhenson_2011,A Model of City Traffic Based on Elementary Cellular Automat,ingeniería de tráfico,nombre
+Sawarkar_2024,Blended RAG: Improving RAG (Retriever-Augmented Generation) ,procesamiento de lenguaje natural,nombre
+Sharma_et_al._2025,Advancing Natural Language to SQL: A Comparative Study of Op,procesamiento de lenguaje natural,nombre
+Vanhe_e_et_al._2025,Large Language Models for Agent-Based Modelling: Current and,modelado basado en agentes,nombre
+Vaswani_et_al._2017,Attention Is All You Need,procesamiento de lenguaje natural,nombre
+Zhao_et_al._2016,This paper explores Japanese firms’ social innovation activi,ciencias sociales,nombre
+paper_021_Deep_learning,"Deep Learning Hardware: Past, Present, and Future",aprendizaje profundo,hash
+paper_022_Generative_adversarial_nets,Generative Adversarial Nets,aprendizaje automático,hash
+paper_023_Attention_is_all_you_need,Attention Is All You Need,procesamiento de lenguaje natural,hash
+paper_024_BERT_Pre-training_of_deep_bidirectional,BERT: Pre-training of Deep Bidirectional Transformers for La,procesamiento de lenguaje natural,hash
+paper_026_Language_models_are_unsupervised_multita,Language Models are Unsupervised Multitask Learners,procesamiento de lenguaje natural,hash
+paper_027_Deep_residual_learning_for_image_recogni,Deep Residual Learning for Image Recognition,visión computacional,hash
+paper_029_You_only_look_once_Unified_real-time_obj,You Only Look Once:,visión computacional,hash
+paper_038_GPT-4_Technical_Report,GPT-4 Technical Report,procesamiento de lenguaje natural,hash
+paper_040_LaMDA_Language_Models_for_Dialog_Applica,LaMDA: Language Models for Dialog Applications,procesamiento de lenguaje natural,hash
+paper_041_GPQA_A_Graduate-level_Google-Proof_Q_A_B,GPQA: A Graduate-Level Google-Proof,procesamiento de lenguaje natural,hash
+paper_042_Longformer_The_Long-Document_Transformer,Longformer: The Long-Document Transformer,procesamiento de lenguaje natural,hash
+paper_044_DeBERTa_Decoding-enhanced_BERT_with_Dise,AN IMAGE IS WORTH 16X16 WORDS:,visión computacional,hash
+paper_045_LoRA_Low-Rank_Adaptation_of_Large_Langua,LORA: LOW-RANK ADAPTATION OF LARGE LAN-,procesamiento de lenguaje natural,hash
+paper_046_Retrieval-Augmented_Generation_for_Knowl,Retrieval-Augmented Generation for,procesamiento de lenguaje natural,hash
+paper_047_REALM_Retrieval-Augmented_Language_Model,Dense Passage Retrieval for Open-Domain Question Answering,procesamiento de lenguaje natural,hash
+paper_048_Dense_Passage_Retrieval_for_Open-Domain,Counterfactual Explanations and Algorithmic Recourses for Ma,aprendizaje automático,hash
+paper_049_Atlas_Few-shot_Learning_with_Retrieval_A,Discovering Language Model Behaviors with Model-Written Eval,procesamiento de lenguaje natural,hash
+paper_050_CAMEL_Communicative_Agents_for_Mind_Expl,Algorithm of Thoughts:,procesamiento de lenguaje natural,hash
+paper_051_Tree_of_Thoughts_Deliberate_Problem_Solv,Plan-and-Solve Prompting: Improving Zero-Shot Chain-of-Thoug,procesamiento de lenguaje natural,hash
+paper_052_ReAct_Synergizing_Reasoning_and_Acting_i,REACT: SYNERGIZING REASONING AND ACTING IN,procesamiento de lenguaje natural,hash
+paper_053_Toolformer_Language_Models_Can_Teach_The,Multimodal Chain-of-Thought Reasoning in Language Models,procesamiento de lenguaje natural,hash
+paper_054_MMLU_Measuring_Massive_Multitask_Languag,MEASURING MASSIVE MULTITASK,procesamiento de lenguaje natural,hash
+paper_055_TruthfulQA_Measuring_How_Models_Mimic_Hu,TruthfulQA: Measuring How Models Mimic Human Falsehoods,procesamiento de lenguaje natural,hash
+paper_056_Chain-of-Thought_Prompting_Elicits_Reaso,Chain-of-Thought Prompting Elicits Reasoning,procesamiento de lenguaje natural,hash
+paper_057_Self-Consistency_Improves_Chain_of_Thoug,Large Language Models are Zero-Shot Reasoners,procesamiento de lenguaje natural,hash
+paper_095_Chatbot_Arena_An_Open_Platform_for_Evalu,Direct Preference Optimization:,procesamiento de lenguaje natural,hash
+paper_096_LLaMA_2_Open_Foundation_and_Fine-Tuned_C,Llama 2: Open Foundation and Fine-Tuned Chat Models,procesamiento de lenguaje natural,hash
+paper_096_PaLM_Scaling_Language_Modeling_with_Path,PaLM: Scaling Language Modeling with Pathways,procesamiento de lenguaje natural,hash
+paper_097_Are_Emergent_Abilities_of_Large_Language,Harnessing the Power of LLMs in Practice: A Survey on ChatGP,procesamiento de lenguaje natural,hash
+paper_098_Code_Llama_Open_Foundation_Models_for_Co,"Platypus: Quick, Cheap, and Powerful",procesamiento de lenguaje natural,hash
+paper_100_A_Survey_of_Large_Language_Models,Judging LLM-as-a-Judge,procesamiento de lenguaje natural,hash
+paper_100_T5_Text-to-Text_Transfer_Transformer,Language Models are Few-Shot Learners,procesamiento de lenguaje natural,hash
